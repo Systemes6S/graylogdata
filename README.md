@@ -32,7 +32,7 @@ The hash makes it possible to verify when copying on the other server that the a
 
 # How to use GrayLogDataImporter.py ?
 
-1. Run the GrayLogDataImporter.py script:
+1. Upload your index file .tar.bz2 in the same folder of script and run the GrayLogDataImporter.py script:
 
 ```
 ./GrayLogDataImporter.py
