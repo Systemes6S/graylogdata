@@ -41,7 +41,7 @@ The hash makes it possible to verify when copying on the other server that the a
 2. Specify the name of the index to be imported:
 
 ```
-Name of index to import: index_nessus_82
+Name of index to import: index_xxx
 ```
 
 3. Check that the hash corresponds to the one that was specified during export:
