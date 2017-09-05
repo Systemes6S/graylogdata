@@ -1,7 +1,5 @@
 # GrayLogData Scripts
-A python scripts to import and export an index from ElasticSearch node to another one. You can use theses scripts for backup too.
-
-Theses scripts create an archive file SVG_index_xxx.tar.bz2
+These python scripts can import and export an index from ElasticSearch node to another one by creating an archive file (.tar.bz2 format). You can use these scripts for backup too.
 
 # How to use GrayLogDataExporter.py ?
 
