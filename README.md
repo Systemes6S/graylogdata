@@ -45,7 +45,7 @@ Name of index to import: index_xxx
 3. Check that the hash corresponds to the one that was specified during export:
 
 ```python
-Hash the archive: 2b39c58e54c709a6bb61f62d42c43ed2
+Hash: 2b39c58e54c709a6bb61f62d42c43ed2
 Decompressing the archive [OK]
 Stopping elasticsearch: [OK]
 Starting elasticsearch: [OK]
